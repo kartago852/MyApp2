@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         int promedio = (Quality_int + Price_int + Satisfaction_int) / 3;
 
         if(promedio >= 6){
-            tv1.setText("APROBADO CON " + promedio);
+            tv1.setText("APROBADO CON  " + promedio);
         } else if ( promedio <= 5){
             tv1.setText("REPROBADO CON "+promedio);
         }
