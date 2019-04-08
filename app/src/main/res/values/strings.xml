@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My App 2</string>
+    <string name="txt_view_String">The Provider is </string>
+    <string name="txt_Quality_String">Quality</string>
+    <string name="txt_Price_String">Price</string>
+    <string name="txt_Satisfaction_String">Satisfaction</string>
+    <string name="button">Calculate</string>
 </resources>
